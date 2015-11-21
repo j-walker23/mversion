@@ -1,3 +1,7 @@
+# Fork of original mversion to allow adding files to commit in hooks
+Will take this down if they accept the PR to allow it
+
+
 mversion - A cross packaging manager module version handler/bumper
 ===
 
